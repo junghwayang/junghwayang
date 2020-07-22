@@ -1,6 +1,10 @@
-<h1 align="center">Hi 👋, I'm Junghwa.</h1>
-<h3 align="center">A back-end developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junghwayang" alt="junghwayang" /></p>
+## Hi, 👋 I'm Junghwa.
+
+<img align="right" src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width=250 />
+
+![junghwayang](https://komarev.com/ghpvc/?username=junghwayang)
+[![Linkedin: junghwayang](https://img.shields.io/badge/-junghwayang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junghwayang/)](https://www.linkedin.com/in/junghwayang/)
+[![GitHub JunghwaYang](https://img.shields.io/github/followers/junghwayang?label=Follow&style=social)](https://github.com/junghwayang)
 
 - Junghwa [dʒʌŋ hwɑː]
 - 💻 A back-end developer
@@ -11,7 +15,3 @@
 - ❤️ Love traveling✈️ dancing💃🏽 Zumba👯‍♂️ laughing🤣 looking at the sky🌅 walking🚶🏽‍♀️ trekking⛰ workout🏋🏽‍♀️ music🎧 coffee☕️ and beer🍺
 - 🌏 Life Goal : travel around the world
 - 😇 ENFP personality - `You Can Change the World With Just an Idea`
-
-<p align="center">
-<a href="https://linkedin.com/in/junghwayang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="junghwayang" height="20" width="20" /></a>
-</p>
