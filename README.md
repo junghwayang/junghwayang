@@ -6,7 +6,7 @@
 [![Linkedin: junghwayang](https://img.shields.io/badge/-junghwayang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junghwayang/)](https://www.linkedin.com/in/junghwayang)
 [![GitHub JunghwaYang](https://img.shields.io/github/followers/junghwayang?label=Follow&style=social)](https://github.com/junghwayang)
 
-<p><b>Skills</b>: Node.js, Express, MongoDB, JavaScript, REST API, React, Gatsby, GraphQL, HTML/CSS, AWS, Jenkins, Git
+<p><b>Skills</b>: Node.js, Express, MongoDB, JavaScript, AWS, REST API, React, Gatsby, GraphQL, MySQL, HTML/CSS, Sass/SCSS, CI/CD, Jenkins, Git, Redis
 
 - Junghwa [dʒʌŋ hwɑː]
 - 💻 A back-end developer
@@ -17,3 +17,5 @@
 - ❤️ Love traveling✈️ dancing💃🏽 Zumba👯‍♂️ laughing🤣 looking at the sky🌅 walking🚶🏽‍♀️ trekking⛰ workout🏋🏽‍♀️ music🎧 coffee☕️ and beer🍺
 - 🌏 Life Goal : travel around the world
 - 😇 ENFP personality - `You Can Change the World With Just an Idea`
+
+[🖥 Visit My Website](https://junghwayang.com)
