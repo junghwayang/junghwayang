@@ -11,7 +11,6 @@
 - Junghwa [dʒʌŋ hwɑː]
 - 💻 Back-end Software Engineer
 - 🔢 Former Data Scientist / Accountant
-- 🔭 Currently working on building portfolio website
 - 👩🏻‍💻 All of my projects are available [here](https://junghwayang.com/projects)
 - 🥰 Freak about coding, algorithms, math things
 - ❤️ Love traveling✈️ dancing💃🏽 Zumba👯‍♂️ laughing🤣 looking at the sky🌅 walking🚶🏽‍♀️ trekking⛰ workout🏋🏽‍♀️ music🎧 coffee☕️ and beer🍺
