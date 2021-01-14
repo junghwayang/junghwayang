@@ -6,7 +6,7 @@
 [![Linkedin: junghwayang](https://img.shields.io/badge/-junghwayang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junghwayang/)](https://www.linkedin.com/in/junghwayang)
 [![GitHub JunghwaYang](https://img.shields.io/github/followers/junghwayang?label=Follow&style=social)](https://github.com/junghwayang)
 
-<p><b>Skills</b>: Node.js, Express, JavaScript, TypeScript, MongoDB, AWS, REST API, Vue, React, GraphQL, Gatsby, Prisma, Apollo, EJS, Pug, Jest, Git/GitHub, MySQL, CI/CD, Jenkins, Redis, HTML5, CSS3, Sass/SCSS
+<p><b>Skills</b>: Node.js, Express, JavaScript/TypeScript, NestJS, MongoDB, MySQL, AWS, REST API, GraphQL, Apollo, Vue, React, Gatsby, EJS, Pug, Jest, Chai, Mocha, Sinon, Git, CI/CD, CircleCI, HTML5, CSS3, Sass/SCSS
 
 - Junghwa [dʒʌŋ hwɑː]
 - 💻 Full-stack Software Engineer
