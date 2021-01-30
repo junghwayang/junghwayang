@@ -9,7 +9,7 @@
 <p><b>Skills</b>: Node.js, Express, JavaScript/TypeScript, NestJS, MongoDB, MySQL, AWS, REST API, GraphQL, Apollo, Vue, React, Gatsby, EJS, Pug, Jest, Chai, Mocha, Git, CI/CD, CircleCI, HTML5, CSS3, Sass/SCSS
 
 - Junghwa [dʒʌŋ hwɑː], or call me Rosie.
-- 💻 Full-stack Software Engineer focused on Back-end
+- 💻 Full-stack Software Engineer focused on **Back-end** using MERN, MEVN stack
 - 🔢 Former Data Scientist / Accountant
 - 👩🏻‍💻 All of my projects are available [here](https://junghwayang.com/projects)
 - 🥰 Freak about coding, algorithms, math things
